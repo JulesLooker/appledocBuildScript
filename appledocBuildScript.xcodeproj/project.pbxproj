@@ -6,10 +6,21 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		84EF6081147BC4100009F73E /* AppledocBuild.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = AppledocBuild.sh; sourceTree = "<group>"; };
+		84EF6082147BC4100009F73E /* AppledocDemo.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = AppledocDemo.sh; sourceTree = "<group>"; };
+		84EF6083147BC4100009F73E /* AppledocNil.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = AppledocNil.xcconfig; sourceTree = "<group>"; };
+		84EF6084147BC6F40009F73E /* Readme.markdown */ = {isa = PBXFileReference; path = Readme.markdown; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		84EF6078147BC3B10009F73E = {
 			isa = PBXGroup;
 			children = (
+				84EF6084147BC6F40009F73E /* Readme.markdown */,
+				84EF6081147BC4100009F73E /* AppledocBuild.sh */,
+				84EF6082147BC4100009F73E /* AppledocDemo.sh */,
+				84EF6083147BC4100009F73E /* AppledocNil.xcconfig */,
 			);
 			sourceTree = "<group>";
 		};
